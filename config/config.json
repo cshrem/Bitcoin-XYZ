@@ -1,3 +1,4 @@
 {
   MAX_BLOCKSIZE: NaN
+  MIN_BLOCKSIZE: 0
 }
