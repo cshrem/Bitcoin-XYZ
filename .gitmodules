@@ -31,6 +31,6 @@
 [submodule "ext/bitcoin-gocoin"]
 	path = ext/bitcoin-gocoin
 	url = https://github.com/piotrnar/gocoin.git
-[submodule "ext/bitcoin-xyz"]
-	path = ext/bitcoin-xyz
-	url = https://github.com/btc0/bitcoin-xyz.git
+[submodule "ext/bitcoin-omega"]
+	path = ext/bitcoin-omega
+	url = https://github.com/btc0/bitcoin-omega.git
