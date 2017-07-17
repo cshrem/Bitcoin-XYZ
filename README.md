@@ -1,7 +1,7 @@
 
 ---
 
-## `Ω://bitcoin` [![s][001]][002] [![w][011]][012] [![v][010]][015] [![w][013]][014]
+## `Ω://bitcoin` [![status][000]][001] [![w][011]][012] [![v][010]][015] [![w][013]][014]
 
 ---
 
@@ -9,6 +9,5 @@
 
 ---
 
-[000]: https://libdeos.github.io/deos-graphviz/
-[001]: https://travis-ci.org/libdeos/deos-graphviz.svg?branch=master
-[002]: https://travis-ci.org/libdeos/deos-graphviz
+[000]: https://travis-ci.org/btc0/bitcoin-omega.svg?branch=master
+[001]: https://travis-ci.org/btc0/bitcoin-omega
