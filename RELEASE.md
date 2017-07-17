@@ -4,4 +4,6 @@
 
 - [ ] buy `desantis` a boat
 
+- [ ] add bumbacoin sidechain
+
 ---
