@@ -31,3 +31,6 @@
 [submodule "ext/bitcoin-gocoin"]
 	path = ext/bitcoin-gocoin
 	url = git@github.com:piotrnar/gocoin.git
+[submodule "ext/bitcoin-xyz"]
+	path = ext/bitcoin-xyz
+	url = git@github.com:btc0/bitcoin-xyz.git
