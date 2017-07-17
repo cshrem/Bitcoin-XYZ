@@ -6,7 +6,7 @@ all:
 #	Description: The default rule.
 #	Usage: `make` and/or `make all`
 # =========================================================================== #
-	@-python main.py
+	@-cd ext/bitcoin-core && gitinspector --format html > ../../var/html/bitcoin-core.html
 # =========================================================================== #
 
 build:
