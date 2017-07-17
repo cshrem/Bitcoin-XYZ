@@ -25,3 +25,6 @@
 [submodule "ext/bitcoin-btcd"]
 	path = ext/bitcoin-btcd
 	url = git@github.com:btcsuite/btcd.git
+[submodule "ext/bitcoin-pico"]
+	path = ext/bitcoin-pico
+	url = git@github.com:jgarzik/picocoin.git
