@@ -13,3 +13,6 @@
 [submodule "ext/bitcoin-original"]
 	path = ext/bitcoin-original
 	url = git@github.com:atdlib/original-bitcoin.git
+[submodule "ext/bitcoin-classic"]
+	path = ext/bitcoin-classic
+	url = git@github.com:bitcoinclassic/bitcoinclassic.git
