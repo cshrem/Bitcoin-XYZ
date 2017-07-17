@@ -2,7 +2,8 @@ export MAKEFLAGS := --no-print-directory
 include             .env
 
 .DEFAULT_GOAL    := all
-.PHONY:             all
+.PHONY:             all \
+                    build
 .SUBLIME_TARGETS:   all
 
 BASE_PATH        := .
