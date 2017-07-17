@@ -5,7 +5,7 @@ os: linux
 sudo: false
 
 git:
-- submodules: false
+  submodules: false
 
 before_install:
 - echo 'before_install'
