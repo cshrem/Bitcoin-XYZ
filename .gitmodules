@@ -19,3 +19,6 @@
 [submodule "ext/bitcoin-abc"]
 	path = ext/bitcoin-abc
 	url = git@github.com:Bitcoin-ABC/bitcoin-abc.git
+[submodule "ext/bitcoin-bcoin"]
+	path = ext/bitcoin-bcoin
+	url = git@github.com:bcoin-org/bcoin.git
