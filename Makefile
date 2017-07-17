@@ -6,10 +6,14 @@ all:
 #	Description: The default rule.
 #	Usage: `make` and/or `make all`
 # =========================================================================== #
-	@-rm -rf var/xml/bitcoin-btc1.html
-	@-cd ext/bitcoin-btc1 && gitinspector --format html > ../../var/html/bitcoin-btc1.html
-	@-rm -rf var/xml/bitcoin-btc1.xml
-	@-cd ext/bitcoin-unlimited && gitinspector --format xml > ../../var/xml/bitcoin-btc1.xml
+	@-rm -rf var/xml/bitcoin-abc.html
+	@-cd ext/bitcoin-abc && gitinspector --format html > ../../var/html/bitcoin-abc.html
+	@-rm -rf var/xml/bitcoin-abc.xml
+	@-cd ext/bitcoin-unlimited && gitinspector --format xml > ../../var/xml/bitcoin-abc.xml
+	@#-rm -rf var/xml/bitcoin-btc1.html
+	@#-cd ext/bitcoin-btc1 && gitinspector --format html > ../../var/html/bitcoin-btc1.html
+	@#-rm -rf var/xml/bitcoin-btc1.xml
+	@#-cd ext/bitcoin-unlimited && gitinspector --format xml > ../../var/xml/bitcoin-btc1.xml
 	@#-rm -rf var/xml/bitcoin-unlimited.html
 	@#-cd ext/bitcoin-unlimited && gitinspector --format html > ../../var/html/bitcoin-unlimited.html
 	@#-rm -rf var/xml/bitcoin-unlimited.xml
