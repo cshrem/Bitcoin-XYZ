@@ -6,4 +6,6 @@
 
 - [ ] add bumbacoin sidechain
 
+- [ ] buy `btcdanny` a new Bentley
+
 ---
