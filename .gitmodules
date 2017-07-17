@@ -1,0 +1,21 @@
+[submodule "ext/bitcoin-core"]
+	path = ext/bitcoin-core
+	url = https://github.com/bitcoin/bitcoin.git
+[submodule "ext/bitcoin-original"]
+	path = ext/bitcoin-original
+	url = https://github.com/atdlib/original-bitcoin.git
+[submodule "ext/bitcoin-unlimited"]
+	path = ext/bitcoin-unlimited
+	url = https://github.com/BitcoinUnlimited/BitcoinUnlimited.git
+[submodule "ext/bitcoin-btc1"]
+	path = ext/bitcoin-btc1
+	url = https://github.com/btc1/bitcoin.git
+[submodule "ext/bitcoin-abc"]
+	path = ext/bitcoin-abc
+	url = https://github.com/Bitcoin-ABC/bitcoin-abc.git
+[submodule "ext/bitcoin-xt"]
+	path = ext/bitcoin-xt
+	url = https://github.com/bitcoinxt/bitcoinxt.git
+[submodule "ext/bitcoin-bcoin"]
+	path = ext/bitcoin-bcoin
+	url = git@github.com:bcoin-org/bcoin.git

@@ -1,0 +1,11 @@
+---
+title: bitcoin.team
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- Makefile
+
+plugins:
+- jekyll-mentions
+---
