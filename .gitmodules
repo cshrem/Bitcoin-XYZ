@@ -18,4 +18,4 @@
 	url = https://github.com/bitcoinxt/bitcoinxt.git
 [submodule "ext/bitcoin-bcoin"]
 	path = ext/bitcoin-bcoin
-	url = git@github.com:bcoin-org/bcoin.git
+	url = https://github.com/bcoin-org/bcoin.git
