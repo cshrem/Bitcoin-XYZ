@@ -1,6 +1,5 @@
 ---
 title: bitcoin.team
-theme: jekyll-theme-minimal
 
 exclude:
 - Gemfile
