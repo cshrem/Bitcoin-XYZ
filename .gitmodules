@@ -28,3 +28,6 @@
 [submodule "ext/bitcoin-pico"]
 	path = ext/bitcoin-pico
 	url = git@github.com:jgarzik/picocoin.git
+[submodule "ext/bitcoin-gocoin"]
+	path = ext/bitcoin-gocoin
+	url = git@github.com:piotrnar/gocoin.git
