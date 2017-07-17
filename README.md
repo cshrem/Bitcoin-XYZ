@@ -1,3 +1,6 @@
-# Bitcoin-XYZ
-Bitcoin XYZ
-This will be the most awesome version of Bitcoin
+
+### `BΩ v0.1-alpha`
+
+> This will be the most awesome version of Bitcoin
+
+---
