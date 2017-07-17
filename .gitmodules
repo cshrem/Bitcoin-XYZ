@@ -1,0 +1,3 @@
+[submodule "ext/bitcoin-core"]
+	path = ext/bitcoin-core
+	url = git@github.com:bitcoin/bitcoin.git
