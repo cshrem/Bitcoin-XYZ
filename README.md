@@ -1,7 +1,7 @@
 
 ---
 
-## `Ω://bitcoin` [![status][000]][001] [![w][011]][012] [![v][010]][015] [![w][013]][014]
+## `Ω://bitcoin` [![status][000]][001] [![w][002]][012] [![v][010]][015] [![w][013]][014]
 
 ---
 
@@ -11,3 +11,5 @@
 
 [000]: https://travis-ci.org/btc0/bitcoin-omega.svg?branch=master
 [001]: https://travis-ci.org/btc0/bitcoin-omega
+[002]: https://img.shields.io/badge/github-wiki-orange.svg
+[012]: https://github.com/btc0/bitcoin-omega/wiki
