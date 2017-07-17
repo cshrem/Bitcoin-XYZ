@@ -7,3 +7,6 @@
 [submodule "ext/bitcoin-unlimited"]
 	path = ext/bitcoin-unlimited
 	url = git@github.com:BitcoinUnlimited/BitcoinUnlimited.git
+[submodule "ext/bitcoin-btc1"]
+	path = ext/bitcoin-btc1
+	url = git@github.com:btc1/bitcoin.git
