@@ -1,3 +1,9 @@
 [submodule "ext/bitcoin-core"]
 	path = ext/bitcoin-core
 	url = git@github.com:bitcoin/bitcoin.git
+[submodule "ext/bitcoin-original"]
+	path = ext/bitcoin-original
+	url = git@github.com:atdlib/original-bitcoin.git
+[submodule "ext/bitcoin-unlimited"]
+	path = ext/bitcoin-unlimited
+	url = git@github.com:BitcoinUnlimited/BitcoinUnlimited.git

@@ -1,0 +1,31 @@
+<gitinspector>
+	<version>0.3.2</version>
+	<repository>bitcoin-original</repository>
+	<report-date>2017/07/17</report-date>
+	<changes>
+		<message>The following historical commit information, by author, was found in the repository</message>
+		<authors>
+			<author>
+				<name>Leo Trottier</name>
+				<gravatar>https://www.gravatar.com/avatar/d2fa9bd55eed8e7006aa4e619f8c1ed4?default=identicon</gravatar>
+				<commits>2</commits>
+				<insertions>19963</insertions>
+				<deletions>62</deletions>
+				<percentage-of-changes>100.00</percentage-of-changes>
+			</author>
+		</authors>
+	</changes>
+	<blame>
+		<message>Below are the number of rows from each author that have survived and are still intact in the current revision</message>
+		<authors>
+			<author>
+				<name>Leo Trottier</name>
+				<gravatar>https://www.gravatar.com/avatar/d2fa9bd55eed8e7006aa4e619f8c1ed4?default=identicon</gravatar>
+				<rows>19901</rows>
+				<stability>99.7</stability>
+				<age>-0.0</age>
+				<percentage-in-comments>8.44</percentage-in-comments>
+			</author>
+		</authors>
+	</blame>
+</gitinspector>
