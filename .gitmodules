@@ -1,36 +1,36 @@
 [submodule "ext/bitcoin-core"]
 	path = ext/bitcoin-core
-	url = git@github.com:bitcoin/bitcoin.git
+	url = https://github.com/bitcoin/bitcoin.git
 [submodule "ext/bitcoin-xt"]
 	path = ext/bitcoin-xt
-	url = git@github.com:bitcoinxt/bitcoinxt.git
+	url = https://github.com/bitcoinxt/bitcoinxt.git
 [submodule "ext/bitcoin-unlimited"]
 	path = ext/bitcoin-unlimited
-	url = git@github.com:BitcoinUnlimited/BitcoinUnlimited.git
+	url = https://github.com/BitcoinUnlimited/BitcoinUnlimited.git
 [submodule "ext/bitcoin-btc1"]
 	path = ext/bitcoin-btc1
-	url = git@github.com:btc1/bitcoin.git
+	url = https://github.com/btc1/bitcoin.git
 [submodule "ext/bitcoin-original"]
 	path = ext/bitcoin-original
-	url = git@github.com:atdlib/original-bitcoin.git
+	url = https://github.com/atdlib/original-bitcoin.git
 [submodule "ext/bitcoin-classic"]
 	path = ext/bitcoin-classic
-	url = git@github.com:bitcoinclassic/bitcoinclassic.git
+	url = https://github.com/bitcoinclassic/bitcoinclassic.git
 [submodule "ext/bitcoin-abc"]
 	path = ext/bitcoin-abc
-	url = git@github.com:Bitcoin-ABC/bitcoin-abc.git
+	url = https://github.com/Bitcoin-ABC/bitcoin-abc.git
 [submodule "ext/bitcoin-bcoin"]
 	path = ext/bitcoin-bcoin
-	url = git@github.com:bcoin-org/bcoin.git
+	url = https://github.com/bcoin-org/bcoin.git
 [submodule "ext/bitcoin-btcd"]
 	path = ext/bitcoin-btcd
-	url = git@github.com:btcsuite/btcd.git
+	url = https://github.com/btcsuite/btcd.git
 [submodule "ext/bitcoin-pico"]
 	path = ext/bitcoin-pico
-	url = git@github.com:jgarzik/picocoin.git
+	url = https://github.com/jgarzik/picocoin.git
 [submodule "ext/bitcoin-gocoin"]
 	path = ext/bitcoin-gocoin
-	url = git@github.com:piotrnar/gocoin.git
+	url = https://github.com/piotrnar/gocoin.git
 [submodule "ext/bitcoin-xyz"]
 	path = ext/bitcoin-xyz
-	url = git@github.com:btc0/bitcoin-xyz.git
+	url = https://github.com/btc0/bitcoin-xyz.git
